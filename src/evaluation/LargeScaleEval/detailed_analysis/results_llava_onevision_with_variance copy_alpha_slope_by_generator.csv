@@ -1,0 +1,6 @@
+Generator,visual_quality_slope,visual_quality_delta_0p1_to_1p0,temporal_consistency_slope,temporal_consistency_delta_0p1_to_1p0,dynamic_degree_slope,dynamic_degree_delta_0p1_to_1p0,text_to_video_alignment_slope,text_to_video_alignment_delta_0p1_to_1p0,factual_consistency_slope,factual_consistency_delta_0p1_to_1p0
+alpha,-0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0.0
+hunyuan,-0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0.0
+pika,-0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0.0
+ray2,-0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0.0
+sora,-0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0.0

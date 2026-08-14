@@ -1,0 +1,7 @@
+data:
+  -
+    name: "pift"
+    type: json
+    path: "configs/train_pift.json"
+    format: classification
+    split: train

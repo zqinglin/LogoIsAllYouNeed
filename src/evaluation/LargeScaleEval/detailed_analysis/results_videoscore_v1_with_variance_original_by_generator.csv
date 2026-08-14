@@ -1,0 +1,6 @@
+Generator,visual_quality_mean,temporal_consistency_mean,dynamic_degree_mean,text_to_video_alignment_mean,factual_consistency_mean
+alpha,3.769,3.739,3.987,3.872,3.838
+hunyuan,3.726,3.778,4.009,3.927,3.875
+pika,3.714,3.686,3.981,3.941,3.825
+ray2,3.728,3.756,3.998,3.895,3.862
+sora,3.756,3.766,3.979,3.924,3.837
