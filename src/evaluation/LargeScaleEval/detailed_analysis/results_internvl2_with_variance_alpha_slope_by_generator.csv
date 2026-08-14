@@ -1,0 +1,6 @@
+Generator,visual_quality_slope,visual_quality_delta_0p1_to_1p0,temporal_consistency_slope,temporal_consistency_delta_0p1_to_1p0,dynamic_degree_slope,dynamic_degree_delta_0p1_to_1p0,text_to_video_alignment_slope,text_to_video_alignment_delta_0p1_to_1p0,factual_consistency_slope,factual_consistency_delta_0p1_to_1p0
+alpha,0.005351,0.05593,0.021662,0.053582,0.002344,-0.00807,-0.004491,0.011108,0.004353,0.053766
+hunyuan,-0.036825,-0.004639,-0.019827,0.002905,-0.006354,0.004601,-0.064794,-0.004405,-0.054774,-0.014557
+pika,-0.025689,-0.017974,-0.011724,-0.029218,-0.003723,-0.004263,-0.013779,-0.032904,-0.030344,-0.037647
+ray2,-0.037984,-0.045513,-0.020132,-0.014335,-0.008058,-0.010608,-0.019901,-0.000399,-0.014017,-0.018949
+sora,-0.011021,-0.026737,-0.044681,-0.032103,-0.018065,-0.001667,-0.013002,-0.036551,-0.013455,-0.000179

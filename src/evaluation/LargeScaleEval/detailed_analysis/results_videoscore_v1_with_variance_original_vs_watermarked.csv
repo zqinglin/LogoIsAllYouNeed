@@ -1,0 +1,3 @@
+Is_Original,visual_quality_mean,temporal_consistency_mean,dynamic_degree_mean,text_to_video_alignment_mean,factual_consistency_mean
+Watermarked,3.738,3.761,3.994,3.908,3.861
+Original,3.739,3.745,3.991,3.912,3.847

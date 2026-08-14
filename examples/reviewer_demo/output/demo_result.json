@@ -1,0 +1,31 @@
+{
+  "model": "TIGER-Lab/VideoScore-v1.1",
+  "orig_video": "Code/examples/reviewer_demo/videos/original/0000_sora_0.mp4",
+  "wm_video": "Code/examples/reviewer_demo/videos/watermarked/0000_sora_0.mp4",
+  "prompt_text": "A bustling city marketplace from dawn to dusk, capturing vendors setting up, colorful goods being sold, diverse crowds interacting, lights illuminating as night falls, and the vibrant energy transitioning between day and night.",
+  "max_frames": 48,
+  "scores_original": {
+    "visual_quality": 2.594,
+    "temporal_consistency": 2.516,
+    "dynamic_degree": 3.016,
+    "text_alignment": 3.062,
+    "factual_consistency": 2.578,
+    "total_score": 2.753
+  },
+  "scores_watermarked": {
+    "visual_quality": 4.0,
+    "temporal_consistency": 3.953,
+    "dynamic_degree": 4.0,
+    "text_alignment": 3.75,
+    "factual_consistency": 3.984,
+    "total_score": 3.937
+  },
+  "delta": {
+    "visual_quality": 1.406,
+    "temporal_consistency": 1.437,
+    "dynamic_degree": 0.984,
+    "text_alignment": 0.688,
+    "factual_consistency": 1.406,
+    "total_score": 1.184
+  }
+}

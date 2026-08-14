@@ -1,0 +1,34 @@
+{
+  "n": 2500,
+  "model": "ckpt_pift_pift/exp1_pift/checkpoint-375",
+  "per_dim": {
+    "visual quality": {
+      "pearson": 0.7556,
+      "spearman": 0.7289
+    },
+    "temporal consistency": {
+      "pearson": 0.6973,
+      "spearman": 0.6992
+    },
+    "dynamic degree": {
+      "pearson": 0.4865,
+      "spearman": 0.4325
+    },
+    "text-to-video alignment": {
+      "pearson": 0.393,
+      "spearman": 0.4033
+    },
+    "factual consistency": {
+      "pearson": 0.7314,
+      "spearman": 0.7242
+    }
+  },
+  "overall_pooled": {
+    "pearson": 0.6989,
+    "spearman": 0.678
+  },
+  "mean_per_dim": {
+    "pearson": 0.6128,
+    "spearman": 0.5976
+  }
+}
